@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="text-align:center">
 # ⚡ Hey there, i'm Josias
 
 I'm an IT Technician and Information Systems Undergraduate at IFES
@@ -41,3 +42,4 @@ I'm an IT Technician and Information Systems Undergraduate at IFES
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
+</div>
