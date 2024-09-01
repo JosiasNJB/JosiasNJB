@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 🏄‍♂️ Hey there, i'm Josias
 
-I'm 
+I'm an IT Technician and Information Systems Undergraduate at IFES
 
 ---
 
