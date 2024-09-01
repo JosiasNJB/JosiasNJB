@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="text-align:center">
+
 # ⚡ Hey there, i'm Josias
 
 I'm an IT Technician and Information Systems Undergraduate at IFES
@@ -33,8 +33,7 @@ I'm an IT Technician and Information Systems Undergraduate at IFES
 <br />
 
 #
-
-
+<div style="text-align:center">
 ### 📊 Stats
 
 ![Josias's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosiasNJB&show_icons=true&theme=gruvbox)
