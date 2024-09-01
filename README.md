@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 😄 Hey there, i'm Josias
+# :octocat: Hey there, i'm Josias
 
 I'm an IT Technician and Information Systems Undergraduate at IFES
 
